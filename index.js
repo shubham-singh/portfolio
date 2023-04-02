@@ -2,32 +2,32 @@ const stocks = [
     {
         symbol: "ITC",
         currency: "₹",
-        averagePrice: "317.61",
-        quantity: 355
+        averagePrice: "323.24",
+        quantity: 390
     },
     {
         symbol: "JCHAC",
         currency: "₹",
-        averagePrice: "1700.00",
-        quantity: 15
+        averagePrice: "1184.62",
+        quantity: 65
     },
     {
         symbol: "JSWENERGY",
         currency: "₹",
-        averagePrice: "278.65",
-        quantity: 32
+        averagePrice: "270.86",
+        quantity: 42
     },
     {
         symbol: "KOTAKALPHA",
         currency: "₹",
-        averagePrice: "30.02",
-        quantity: 2250
+        averagePrice: "29.51",
+        quantity: 2500
     },
     {
         symbol: "KOTAKNV20",
         currency: "₹",
-        averagePrice: "98.98",
-        quantity: 592
+        averagePrice: "99.47",
+        quantity: 697
     },
     {
         symbol: "MAXHEALTH",
