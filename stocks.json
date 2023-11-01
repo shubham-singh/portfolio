@@ -1,50 +1,50 @@
 [
-    {
-      "symbol": "HDFCBANK",
-      "currency": "₹",
-      "averagePrice": "1463.40",
-      "quantity": 50
-    },
-    {
-      "symbol": "ITC",
-      "currency": "₹",
-      "averagePrice": "362.87",
-      "quantity": 586
-    },
-    {
-      "symbol": "JCHAC",
-      "currency": "₹",
-      "averagePrice": "1184.62",
-      "quantity": 65
-    },
-    {
-      "symbol": "JSWENERGY",
-      "currency": "₹",
-      "averagePrice": "296.83",
-      "quantity": 98
-    },
-    {
-      "symbol": "KOTAKALPHA",
-      "currency": "₹",
-      "averagePrice": "30.03",
-      "quantity": 3900
-    },
-    {
-      "symbol": "KOTAKNV20",
-      "currency": "₹",
-      "averagePrice": "104.64",
-      "quantity": 1285
-    },
-    {
-      "symbol": "MAXHEALTH",
-      "currency": "₹",
-      "averagePrice": "261.00",
-      "quantity": 1
-    },
-    {
-      "symbol": "SBIETFIT",
-      "currency": "₹",
-      "averagePrice": "264.49",
-      "quantity": 5
-    }
-  ]
+  {
+    "symbol": "HDFCBANK",
+    "currency": "₹",
+    "averagePrice": "1463.40",
+    "quantity": 50
+  },
+  {
+    "symbol": "ITC",
+    "currency": "₹",
+    "averagePrice": "362.87",
+    "quantity": 586
+  },
+  {
+    "symbol": "JCHAC",
+    "currency": "₹",
+    "averagePrice": "1184.62",
+    "quantity": 65
+  },
+  {
+    "symbol": "JSWENERGY",
+    "currency": "₹",
+    "averagePrice": "296.83",
+    "quantity": 98
+  },
+  {
+    "symbol": "KOTAKALPHA",
+    "currency": "₹",
+    "averagePrice": "30.03",
+    "quantity": 3900
+  },
+  {
+    "symbol": "KOTAKNV20",
+    "currency": "₹",
+    "averagePrice": "104.64",
+    "quantity": 1285
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "currency": "₹",
+    "averagePrice": "261.00",
+    "quantity": 1
+  },
+  {
+    "symbol": "SBIETFIT",
+    "currency": "₹",
+    "averagePrice": "264.49",
+    "quantity": 5
+  }
+]
