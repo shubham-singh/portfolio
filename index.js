@@ -13,7 +13,7 @@ async function getStockPrice(symbol) {
 function App() {
     const [stocks, setStocks] = React.useState([]);
 
-    React.useEffect(async function () {
+    React.useLayoutEffect(async function () {
         try {
             const response = await fetch('./stocks.json')
             const data = await response.json()
