@@ -2,14 +2,14 @@
   {
     "symbol": "HDFCBANK",
     "currency": "₹",
-    "averagePrice": "1463.40",
-    "quantity": 50
+    "averagePrice": "1440.51",
+    "quantity": 115
   },
   {
     "symbol": "ITC",
     "currency": "₹",
-    "averagePrice": "379.59",
-    "quantity": 743
+    "averagePrice": "383.80",
+    "quantity": 799
   },
   {
     "symbol": "JCHAC",
@@ -20,20 +20,20 @@
   {
     "symbol": "JSWENERGY",
     "currency": "₹",
-    "averagePrice": "313.46",
-    "quantity": 114
+    "averagePrice": "334.23",
+    "quantity": 130
   },
   {
     "symbol": "KOTAKALPHA",
     "currency": "₹",
-    "averagePrice": "30.81",
-    "quantity": 4300
+    "averagePrice": "31.92",
+    "quantity": 4700
   },
   {
     "symbol": "KOTAKNV20",
     "currency": "₹",
-    "averagePrice": "106.71",
-    "quantity": 1453
+    "averagePrice": "109.83",
+    "quantity": 1621
   },
   {
     "symbol": "MAXHEALTH",
