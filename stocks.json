@@ -1,45 +1,45 @@
 [
   {
+    "symbol": "ALPHA",
+    "currency": "₹",
+    "averagePrice": "33.81",
+    "quantity": 5350
+  },
+  {
     "symbol": "HDFCBANK",
     "currency": "₹",
-    "averagePrice": "1440.51",
-    "quantity": 115
+    "averagePrice": "1465.74",
+    "quantity": 250
   },
   {
     "symbol": "ITC",
     "currency": "₹",
-    "averagePrice": "383.80",
-    "quantity": 799
+    "averagePrice": "388.33",
+    "quantity": 890
   },
   {
     "symbol": "JCHAC",
     "currency": "₹",
-    "averagePrice": "1184.62",
-    "quantity": 65
+    "averagePrice": "1074.33",
+    "quantity": 150
   },
   {
     "symbol": "JSWENERGY",
     "currency": "₹",
-    "averagePrice": "334.23",
-    "quantity": 130
-  },
-  {
-    "symbol": "ALPHA",
-    "currency": "₹",
-    "averagePrice": "31.92",
-    "quantity": 4700
-  },
-  {
-    "symbol": "NV20",
-    "currency": "₹",
-    "averagePrice": "109.83",
-    "quantity": 1621
+    "averagePrice": "375.11",
+    "quantity": 156
   },
   {
     "symbol": "MAXHEALTH",
     "currency": "₹",
     "averagePrice": "261.00",
     "quantity": 1
+  },
+  {
+    "symbol": "NV20",
+    "currency": "₹",
+    "averagePrice": "114.20",
+    "quantity": 1894
   },
   {
     "symbol": "SBIETFIT",
